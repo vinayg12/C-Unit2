@@ -15,65 +15,61 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-      
     <ClInclude Include="L01_Functions.h">
-        <Filter>Header Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="L02_Strings.h">
-        <Filter>Header Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="L03_Types.h">
-        <Filter>Header Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="L04_Memory.h">
-        <Filter>Header Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="E01_Functions.h">
-        <Filter>Header Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="E02_Strings.h">
-        <Filter>Header Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="E03_Types.h">
-        <Filter>Header Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="E04_Memory.h">
-        <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BinaryTree.h">
-        <Filter>Header Files</Filter>
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-      <ClCompile Include="Main.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
-      <ClCompile Include="L01_Functions.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
-      <ClCompile Include="L02_Strings.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
-      <ClCompile Include="L03_Types.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
-      <ClCompile Include="L04_Memory.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
-      <ClCompile Include="E01_Functions.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
-      <ClCompile Include="E02_Strings.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
-      <ClCompile Include="E03_Types.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
-      <ClCompile Include="E04_Memory.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
-      <ClCompile Include="BinaryTree.cpp">
-          <Filter>Source Files</Filter>
-      </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L01_Functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L02_Strings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L03_Types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L04_Memory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E01_Functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E02_Strings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E03_Types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E04_Memory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
